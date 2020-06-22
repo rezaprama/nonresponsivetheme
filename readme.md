@@ -15,6 +15,8 @@ If you want to collaborate, please give me a credit link or cup a coffee <i clas
   <center><figcaption>Left Navbar with Noob Man hehe</figcaption></center>
 </figure>
 
+
+
 <figure>
   <img src="/Nonresponsive Theme 2.png" alt="Footbar with Noob Man hehe" style="width:100%">
   <center><figcaption>Footbar with Noob Man hehe</figcaption></center>
