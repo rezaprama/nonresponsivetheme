@@ -8,9 +8,14 @@ If you want to collaborate, please give me a credit link or cup a coffee <i clas
 
 <h2>Several Snapshot for Nonresponsive  Theme</h2>
 
-<b>Nonresponsive  Theme 1.0</b>
+<b>>>>>Nonresponsive  Theme 1.0<<<<</b>
 
 <figure>
   <img src="/Nonresponsive Theme 1.JPG" alt="Left Navbar with Noob Man hehe" style="width:100%">
-  <figcaption>Left Navbar with Noob Man hehe</figcaption>
+  <center><figcaption>Left Navbar with Noob Man hehe</figcaption></center>
+</figure>
+
+<figure>
+  <img src="/Nonresponsive Theme 2.png" alt="Footbar with Noob Man hehe" style="width:100%">
+  <center><figcaption>Footbar with Noob Man hehe</figcaption></center>
 </figure>
